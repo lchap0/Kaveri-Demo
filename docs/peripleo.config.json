@@ -9,11 +9,7 @@
       "attribution": "Padma Kaimal CC-BY-NC-SA 4.0"
     }
   ],
-   "facets": [
-    { "name": "Temple", "path": ["properties", "title"] },
-    { "name": "Capstone shape", "path": ["properties", "capstone_shape"] },
-    { "name": "Site", "path": ["properties", "site"] }
-  ]
+   "facets": [  ]
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
     { "pattern": "www.geograph.org.uk", "img": "./logos/geograph.org.png", "label": "Geograph" },
