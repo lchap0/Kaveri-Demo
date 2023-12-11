@@ -5,7 +5,7 @@
     {
       "name": "Kaveri Demo",
       "format": "LINKED_PLACES",
-      "src": "./data/Peripleo_Data_1702060937.json",
+      "src": "./data/KTOP.json",
       "attribution": "Padma Kaimal CC-BY-NC-SA 4.0"
     }
   ],
