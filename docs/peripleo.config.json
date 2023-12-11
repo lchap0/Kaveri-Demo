@@ -9,9 +9,9 @@
       "attribution": "Padma Kaimal CC-BY-NC-SA 4.0"
     },
         {
-      "name": "Orientation",
+      "name": "West facing",
       "format": "LINKED_PLACES",
-      "src": "./data/Kaveri_Peripleo_EW.json",
+      "src": "./data/Kaveri_Peripleo_West.json",
       "attribution": "Padma Kaimal CC-BY-NC-SA 4.0"
     }
   ],
