@@ -13,6 +13,12 @@
       "format": "LINKED_PLACES",
       "src": "./data/Kaveri_Peripleo_East.json",
       "attribution": "Padma Kaimal CC-BY-NC-SA 4.0"
+    },
+    {
+      "name": "Facet test",
+      "format": "LINKED_PLACES",
+      "src": "./data/Peripleo_Data_1702675229.json",
+      "attribution": "Padma Kaimal CC-BY-NC-SA 4.0"
     }
   ],
   "link_icons": [
